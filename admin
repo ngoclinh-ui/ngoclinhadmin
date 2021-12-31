@@ -1,0 +1,5 @@
+
+while true do
+wait(1)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("T o i bi bede", "All")
+end
